@@ -1,0 +1,6 @@
+/// <reference types="cypress" />
+
+module.exports = (on, config) => {
+  // configure plugins here
+  return config;
+};
